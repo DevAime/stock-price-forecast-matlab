@@ -21,7 +21,9 @@ We implemented two approaches to build predictive models:
 <img width="500px" alt="Screenshot 2025-09-20 214911" src="https://github.com/user-attachments/assets/ca4867ca-4fe4-4480-bf07-37a629bc5efb" />
 
 ### CNN Training Progress
-<img src="images/cnn_training.png" width="500px">
+<img width="500px" alt="Screenshot 2025-09-20 215006" src="https://github.com/user-attachments/assets/06769986-b9ef-42cf-b083-56cb94c7b80e" />
+
 
 ### CNN Validation & Forecast Results
-<img src="images/cnn_results.png" width="500px">
+<img width="500px" alt="Screenshot 2025-09-20 215029" src="https://github.com/user-attachments/assets/8a5d105d-ea4e-4980-816e-f8be75e43610" />
+
