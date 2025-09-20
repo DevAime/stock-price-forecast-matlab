@@ -1,4 +1,4 @@
-# 📈 AAPL Stock Price Forecasting
+# AAPL Stock Price Forecasting
 
 This project aims to **forecast Apple (AAPL) stock prices** using historical data from the last **5 years**, retrieved from Yahoo Finance.  
 We implemented two approaches to build predictive models:  
@@ -8,17 +8,17 @@ We implemented two approaches to build predictive models:
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 - **Data Preprocessing:** Handling missing values, normalization, and technical indicator calculation (moving average, RSI).  
 - **Time Series Model:** Holt-Winters exponential smoothing for forecasting.  
 - **Deep Learning Model:** CNN architecture trained on sliding windows of stock prices.  
 - **Evaluation:** Performance metrics such as MSE, MAE, and RMSE are computed.  
 - **Visualization:** Historical vs. predicted stock prices plotted for analysis.
 
-- ## 📊 Results
+- ## Results
 
 ### Holt-Winters Time Series Forecast
-<img src="images/holt_winters.png" width="500px">
+<img width="500px" alt="Screenshot 2025-09-20 214911" src="https://github.com/user-attachments/assets/ca4867ca-4fe4-4480-bf07-37a629bc5efb" />
 
 ### CNN Training Progress
 <img src="images/cnn_training.png" width="500px">
